@@ -1,2 +1,3 @@
-# lightning-talk-parietal
-Interactive Visualization in Jupyter Notebooks
+# Interactive Visualization in Jupyter Notebooks
+
+Several simple examples
