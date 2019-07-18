@@ -1,0 +1,12 @@
+name: mne
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.8 
+  - bqplot=0.12
+  - pandas=0.24.2
+  - ipython=7.4.0
+  - pip:
+    - ipywidgets==7.5.0
